@@ -1,0 +1,19 @@
+
+    html {
+        background-color: rgb(243, 202, 243);
+        }
+        h1 {
+            text-align: center;
+            border: 3px solid rgb(228, 230, 228);
+          }
+          .img1 {
+            float: right;
+          }
+          li {
+            font-weight: bold;
+            font-size: 20px; }
+            
+fieldset {
+    display: inline-block;
+          
+  
